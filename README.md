@@ -1,2 +1,2 @@
 # Measurement-System
-Vi of the lab：The Efficiency of a Light Emitting Diode
+LabVIEW program(Vi.) of the measurement：The Efficiency of a Light Emitting Diode
